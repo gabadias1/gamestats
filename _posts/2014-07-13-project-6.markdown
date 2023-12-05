@@ -2,7 +2,7 @@
 layout: default
 modal-id: Felipe Salazar
 date: 2014-07-15
-img: 
+img: felipe.png
 alt: image-alt
 project-date: 2023
 client: --
