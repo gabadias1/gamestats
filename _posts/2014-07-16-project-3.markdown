@@ -7,5 +7,5 @@ alt: image-alt
 project-date: 2023
 client: --
 category: ADM
-description: Rubens, um de nossos integrantes, responsavel pelo desenvolvimento de ideias e administração da empresa. Nam.
+description: Rubens, um de nossos integrantes, responsavel pelo desenvolvimento de ideias e administração da empresa.
 ---
