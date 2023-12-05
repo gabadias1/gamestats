@@ -7,5 +7,5 @@ alt: image-alt
 project-date: 2023
 client: --
 category: Programador
-description: Gabriel Dias, um de nossos integrantes, responsavel na area de montar o site e programa. Nam.
+description: Gabriel Dias, um de nossos integrantes, responsavel na area de montar o site e programa.
 ---
