@@ -2,10 +2,10 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: img/portfolio/bgs_wwsy-800x445.jpg
+img: Rubens.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: A maior empresa de jogos no brasil. Nam.
+project-date: 2023
+client: --
+category: ADM
+description: Rubens, um de nossos integrantes, responsavel pelo desenvolvimento de ideias e administração da empresa. Nam.
 ---
