@@ -2,10 +2,10 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: marlus.png
+img: eu.png
 alt: image-alt
 project-date: 2023
 client: --
-category: Contratante 
-description: Marlus, um de nossos integrantes, responsavel por manter e contratar parcerias de empresas, eventos e games para o programa. Nam.
+category: Programador
+description: Gabriel Dias, um de nossos integrantes, responsalve na area de montar o site e programa. Nam.
 ---
