@@ -32,10 +32,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: UTFPR
+  location: Localização 
+  social: Criadores
+  credits: Creditos
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -51,7 +51,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Campo mourao
+  - line: Parana
   - line: Campo mourao
 
 # Credits content
