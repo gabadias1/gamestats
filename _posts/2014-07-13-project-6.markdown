@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: submarine.png
+img: social-image-chapter4-s3-3840x2160-d35912cc25ad.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
