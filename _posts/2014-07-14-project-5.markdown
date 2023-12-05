@@ -7,5 +7,5 @@ alt: image-alt
 project-date: 2023
 client: --
 category: Contratante 
-description: Marlus, um de nossos integrantes, responsavel por manter e contratar parcerias de empresas, eventos e games para o programa. 
+description: Marlus Zabla, um de nossos integrantes, responsavel por manter e contratar parcerias de empresas, eventos e games para o programa. 
 ---
