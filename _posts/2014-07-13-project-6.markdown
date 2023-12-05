@@ -7,5 +7,5 @@ alt: image-alt
 project-date: 2023
 client: --
 category: Designer
-description: Felipe Salazar, um de nossos integrantes, responsalvel pelo design. Nam.
+description: Felipe Salazar, um de nossos integrantes, responsalvel pelo design.
 ---
