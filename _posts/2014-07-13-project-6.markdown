@@ -2,10 +2,10 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: social-image-chapter4-s3-3840x2160-d35912cc25ad.jpg
+img: felipe.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Um dos jogos mais jogados no programa. Nam.
+project-date: 2023
+client: --
+category: Designer
+description: Felipe Salazar, um de nossos integrantes, responsalvel pelo design. Nam.
 ---
