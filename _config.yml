@@ -1,5 +1,5 @@
 # Site settings
-title: Gamesstats
+title: Gamestats
 email: your-email@domain.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "o melhor programa para analisar suas estatisicas em games."
@@ -41,14 +41,13 @@ footer:
 social:
   - title: Gabriel Dias
     url: https://www.instagram.com/gabadias1/
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: Felipe Salazar
+    url: https://www.instagram.com/fesalazar21/
+  - title: Rubens 
+    url: https://www.instagram.com/rubensrff/
+  - title: Marlus 
+    url: https://www.instagram.com/0_marlus/
+ 
 
 # Postal address (add as many lines as necessary)
 address:
